@@ -1,0 +1,1 @@
+include ':app', ':libraries-base', ':libraries-common', ':libraries-audio', ':libraries-videowidget', ':libraries-commonwidget'
